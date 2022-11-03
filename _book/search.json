@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "Metabolic and epigenetic regulation of T-cell exhaustion.html",
+    "href": "Metabolic and epigenetic regulation of T-cell exhaustion.html",
+    "title": "2  T细胞耗竭中的代谢和表观遗传调控变化",
+    "section": "",
+    "text": "目前的免疫疗法通过增强宿主免疫在癌细胞消除和病毒清除方面的能力，产生了显著的临床效果。然而，在长时间接触抗原后，CD8+ T 细胞会分化成一种特殊的分化状态，称为 T 细胞耗竭，这是慢性病毒感染和肿瘤发展过程中抗病毒和抗肿瘤免疫的主要障碍之一。越来越多的证据表明，耗竭的 T 细胞会出现代谢不足，信号级联和表观遗传发生改变，这会抑制效应免疫并导致对免疫检查点阻断疗法的反应不佳。代谢压力如何影响 T 细胞耗竭仍不清楚；因此，在这篇综述中，我们总结了当前关于 T 细胞耗竭如何发生的知识，并讨论了代谢不足和长期应激反应如何影响信号级联和表观遗传重编程，从而通过专门的分化编程将 T 细胞锁定在耗竭状态。"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\n\n\nKnuth, Donald E. 1984. 《Literate Programming》. Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "3  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
